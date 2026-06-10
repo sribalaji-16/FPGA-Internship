@@ -54,6 +54,8 @@ assign y = ~(x & x);
 
 endmodule
 ```
+--- 
+
 ## Testbench code
 
 ### Code
@@ -108,6 +110,7 @@ end
 
 endmodule
 ```
+---
 
 ## Simulaton results
 
